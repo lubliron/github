@@ -1,2 +1,4 @@
 print("your name")
-
+print("hello")
+print("aloha")
+print ("Liron Harechesh 18")
